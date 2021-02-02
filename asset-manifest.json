@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/sebi2000/roboReact/static/css/main.bfd4c87d.chunk.css",
-    "main.js": "/sebi2000/roboReact/static/js/main.eda9fa51.chunk.js",
-    "main.js.map": "/sebi2000/roboReact/static/js/main.eda9fa51.chunk.js.map",
-    "runtime-main.js": "/sebi2000/roboReact/static/js/runtime-main.a1b23b48.js",
-    "runtime-main.js.map": "/sebi2000/roboReact/static/js/runtime-main.a1b23b48.js.map",
-    "static/css/2.31461e4f.chunk.css": "/sebi2000/roboReact/static/css/2.31461e4f.chunk.css",
-    "static/js/2.b4bba5dd.chunk.js": "/sebi2000/roboReact/static/js/2.b4bba5dd.chunk.js",
-    "static/js/2.b4bba5dd.chunk.js.map": "/sebi2000/roboReact/static/js/2.b4bba5dd.chunk.js.map",
-    "static/js/3.46ae002b.chunk.js": "/sebi2000/roboReact/static/js/3.46ae002b.chunk.js",
-    "static/js/3.46ae002b.chunk.js.map": "/sebi2000/roboReact/static/js/3.46ae002b.chunk.js.map",
-    "index.html": "/sebi2000/roboReact/index.html",
-    "static/css/2.31461e4f.chunk.css.map": "/sebi2000/roboReact/static/css/2.31461e4f.chunk.css.map",
-    "static/css/main.bfd4c87d.chunk.css.map": "/sebi2000/roboReact/static/css/main.bfd4c87d.chunk.css.map",
-    "static/js/2.b4bba5dd.chunk.js.LICENSE.txt": "/sebi2000/roboReact/static/js/2.b4bba5dd.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/sebi2000/roboReact/static/media/SEGA.47b4bfa9.woff"
+    "main.css": "/roboReact/static/css/main.ed066d51.chunk.css",
+    "main.js": "/roboReact/static/js/main.eda9fa51.chunk.js",
+    "main.js.map": "/roboReact/static/js/main.eda9fa51.chunk.js.map",
+    "runtime-main.js": "/roboReact/static/js/runtime-main.26d76716.js",
+    "runtime-main.js.map": "/roboReact/static/js/runtime-main.26d76716.js.map",
+    "static/css/2.31461e4f.chunk.css": "/roboReact/static/css/2.31461e4f.chunk.css",
+    "static/js/2.b4bba5dd.chunk.js": "/roboReact/static/js/2.b4bba5dd.chunk.js",
+    "static/js/2.b4bba5dd.chunk.js.map": "/roboReact/static/js/2.b4bba5dd.chunk.js.map",
+    "static/js/3.46ae002b.chunk.js": "/roboReact/static/js/3.46ae002b.chunk.js",
+    "static/js/3.46ae002b.chunk.js.map": "/roboReact/static/js/3.46ae002b.chunk.js.map",
+    "index.html": "/roboReact/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/roboReact/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.ed066d51.chunk.css.map": "/roboReact/static/css/main.ed066d51.chunk.css.map",
+    "static/js/2.b4bba5dd.chunk.js.LICENSE.txt": "/roboReact/static/js/2.b4bba5dd.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/roboReact/static/media/SEGA.47b4bfa9.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.a1b23b48.js",
+    "static/js/runtime-main.26d76716.js",
     "static/css/2.31461e4f.chunk.css",
     "static/js/2.b4bba5dd.chunk.js",
-    "static/css/main.bfd4c87d.chunk.css",
+    "static/css/main.ed066d51.chunk.css",
     "static/js/main.eda9fa51.chunk.js"
   ]
 }
